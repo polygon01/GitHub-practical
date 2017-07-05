@@ -2,9 +2,9 @@ Using system;
 Public void Main()
 {
 Console.Write("Enter a number: ");
-int num1=Convert.ReadLine();
+int num1=Convert.ToInt32(ReadLine());
 Console.Write("Enter another number: ");
-int num2-Convert.ReadLine();
+int num2=Convert.ToInt32(ReadLine());
 int result=num1+num2;
 Console.WriteLine("Result: " +result);
 return;
