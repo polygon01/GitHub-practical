@@ -1,0 +1,6 @@
+Using system;
+public void Main()
+{
+Console.WriteLine("Hello World");
+return;
+}
