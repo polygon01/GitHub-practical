@@ -1,7 +1,7 @@
 using System;
 public void Main()
 {
-	double r;
+	int r;
 	Circle c;
 	Console.Write("Enter radius to calculate the area of the circle: ");
 	r=Convert.ToDouble(Console.ReadLine());
